@@ -25,6 +25,15 @@ This project analyzes Zomato restaurant data to uncover insights about pricing, 
 * Scikit-learn
 * Matplotlib, Seaborn
 
+## Dataset
+
+The dataset is too large to be uploaded to GitHub.
+You can download it from:
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
+After downloading, place the file in:
+data/zomato.csv
+
 ## How to Run
 
 ```bash
