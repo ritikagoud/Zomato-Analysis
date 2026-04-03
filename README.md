@@ -1,4 +1,4 @@
-# Zomato India Restaurant Intelligence
+# Zomato Restaurant Intelligence
 
 ## Overview
 
